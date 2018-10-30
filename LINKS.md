@@ -1,0 +1,2 @@
+- https://www.prisma.io/forum/t/migrating-from-prisma-binding-to-prisma-client/4545/6
+- https://github.com/ammezie/techies

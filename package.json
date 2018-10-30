@@ -1,18 +1,18 @@
 {
-  "name": "react-prisma-super-legit",
+  "name": "node-prisma-client-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic setup for creating fullstack apps with Node, Prisma, and some client JavaScript library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^6.1.0",
     "graphql": "^14.0.2",
     "graphql-yoga": "^1.16.7",
-    "prisma-binding": "^2.1.6",
     "prisma-client-lib": "^1.19.1"
   }
 }
